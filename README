@@ -13,3 +13,6 @@ https://github.com/joshy/pypacscrawler
 
 LSH (Annoy) for approximate nearest neighbors search ; 머신러님 피쳐 저장 전용 데이터베이스 입니다. PyTorch와 연동됩니다.
 https://euclidesdb.readthedocs.io/en/latest/getstarted.html
+
+Keras 많이 쓰시는 분들은 위해 좋은 링크 공유합니다. AlexNet, VGG, Inception, MobileNet, ShuffleNet, ResNet, DenseNet, Xception, Unet, SqueezeNet, YOLO, RefineNet
+https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb
