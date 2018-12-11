@@ -13,6 +13,9 @@ https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-usin
 https://github.com/SummitKwan/transparent_latent_gan
 https://www.youtube.com/watch?v=O1by05eX424
 
+VAE말고 Auto-encoding variational bayes를 알아보자
+https://tv.naver.com/v/4628354?fbclid=IwAR1Eic8IU7EIXATM1-Xhf74T6G3THHrk6RDJpBzo5tPbN8ZsNYUp7GY54Uw
+
 PACS / DICOM tools for DL
 https://github.com/joshy/pypacscrawler
 
@@ -21,3 +24,5 @@ https://euclidesdb.readthedocs.io/en/latest/getstarted.html
 
 Keras 많이 쓰시는 분들은 위해 좋은 링크 공유합니다. AlexNet, VGG, Inception, MobileNet, ShuffleNet, ResNet, DenseNet, Xception, Unet, SqueezeNet, YOLO, RefineNet
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb
+
+image super-resolution using residual dense blocks https://github.com/idealo/image-super-resolution/blob/master/README.md
