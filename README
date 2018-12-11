@@ -4,6 +4,7 @@ Standford CS 230 - Deep Learning cheatsheet
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
+GAN http://cs236.stanford.edu
 
 AutoEncoder의 모든것
 https://youtu.be/o_peo6U7IRM
@@ -16,6 +17,7 @@ https://www.youtube.com/watch?v=O1by05eX424
 VAE말고 Auto-encoding variational bayes를 알아보자
 https://tv.naver.com/v/4628354?fbclid=IwAR1Eic8IU7EIXATM1-Xhf74T6G3THHrk6RDJpBzo5tPbN8ZsNYUp7GY54Uw
 
+
 PACS / DICOM tools for DL
 https://github.com/joshy/pypacscrawler
 
@@ -26,3 +28,4 @@ Keras 많이 쓰시는 분들은 위해 좋은 링크 공유합니다. AlexNet, 
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb
 
 image super-resolution using residual dense blocks https://github.com/idealo/image-super-resolution/blob/master/README.md
+
