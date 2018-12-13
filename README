@@ -17,6 +17,10 @@ https://www.youtube.com/watch?v=O1by05eX424
 VAE말고 Auto-encoding variational bayes를 알아보자
 https://tv.naver.com/v/4628354?fbclid=IwAR1Eic8IU7EIXATM1-Xhf74T6G3THHrk6RDJpBzo5tPbN8ZsNYUp7GY54Uw
 
+이번 nips의 tutorial 자료; 딥마인드와 FAIR의 두 거물인 Alex Graves 와 Marc'Aurelio Ranzato가 진행한 Unsupervised deep learning
+Unsupervised deep learning tutorial 자료는 요기
+https://ranzato.github.io/publications/tutorial_deep_unsup_learning_part1_NeurIPS2018.pdf
+https://ranzato.github.io/publications/tutorial_deep_unsup_learning_part2_NeurIPS2018.pdf
 
 PACS / DICOM tools for DL
 https://github.com/joshy/pypacscrawler
