@@ -5,6 +5,7 @@ https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-n
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
 GAN http://cs236.stanford.edu
+Paris-Saclay 대학의 딥러닝 코스 자료. https://m2dsupsdlclass.github.io/lectures-labs/
 
 AutoEncoder의 모든것
 https://youtu.be/o_peo6U7IRM
@@ -14,7 +15,7 @@ https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-usin
 https://github.com/SummitKwan/transparent_latent_gan
 https://www.youtube.com/watch?v=O1by05eX424
 
-VAE말고 Auto-encoding variational bayes를 알아보자
+Auto-encoding variational bayes를 알아보자
 https://tv.naver.com/v/4628354?fbclid=IwAR1Eic8IU7EIXATM1-Xhf74T6G3THHrk6RDJpBzo5tPbN8ZsNYUp7GY54Uw
 
 이번 nips의 tutorial 자료; 딥마인드와 FAIR의 두 거물인 Alex Graves 와 Marc'Aurelio Ranzato가 진행한 Unsupervised deep learning
@@ -22,13 +23,26 @@ Unsupervised deep learning tutorial 자료는 요기
 https://ranzato.github.io/publications/tutorial_deep_unsup_learning_part1_NeurIPS2018.pdf
 https://ranzato.github.io/publications/tutorial_deep_unsup_learning_part2_NeurIPS2018.pdf
 
+NLP
+[특강] 딥러닝 자언어처리 + 챗봇 https://event-us.kr/chatbothon/event/4540 
+버트를 이용한 챗봇 구현' 발표자료 
+Wav2letter++, the fastest open source speech system, and flashlight https://code.fb.com/ai-research/wav2letter/
+카카오브레인 박상길님의 'BERT 톺아보기 (http://docs.likejazz.com/bert/)
+BERT 관련한 포스트(http://jalammar.github.io/illustrated-bert/)
+Elmo 관련 slideshare 자료 https://www.slideshare.net/shuntaroy/a-review-of-deep-contextualized-word-representations-peters-2018 https://vimeo.com/277672840
+transformer 의 encoder(BERT)와 decoder: 
+Part I(https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3)
+Appendix(https://medium.com/dissecting-bert/dissecting-bert-appendix-the-decoder-3b86f66b0e5f)
+카카오 브레인 이동현님의 pytorchic-bert(https://github.com/dhlee347/pytorchic-bert)
+
+
 PACS / DICOM tools for DL
 https://github.com/joshy/pypacscrawler
 
 LSH (Annoy) for approximate nearest neighbors search ; 머신러님 피쳐 저장 전용 데이터베이스 입니다. PyTorch와 연동됩니다.
 https://euclidesdb.readthedocs.io/en/latest/getstarted.html
 
-Keras 많이 쓰시는 분들은 위해 좋은 링크 공유합니다. AlexNet, VGG, Inception, MobileNet, ShuffleNet, ResNet, DenseNet, Xception, Unet, SqueezeNet, YOLO, RefineNet
+Keras: AlexNet, VGG, Inception, MobileNet, ShuffleNet, ResNet, DenseNet, Xception, Unet, SqueezeNet, YOLO, RefineNet
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb
 
 image super-resolution using residual dense blocks https://github.com/idealo/image-super-resolution/blob/master/README.md
