@@ -23,6 +23,62 @@ Unsupervised deep learning tutorial 자료는 요기
 https://ranzato.github.io/publications/tutorial_deep_unsup_learning_part1_NeurIPS2018.pdf
 https://ranzato.github.io/publications/tutorial_deep_unsup_learning_part2_NeurIPS2018.pdf
 
+NeurIPS 2018 프로시딩에 수록된 논문들 중,
+http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018
+
+논문제목에 GAN이 들어간 것들을 열거합니다(총16편)
+(위 프로시딩을 열고, 브라우저의 찾기기능으로 'GAN'을 검색하였습니다)
+
+논문제목(구글번역)은 편의상 한글로 기재하고, 논문설명주소를 각각 첨부합니다. 
+
+포즈 유도된 사람 이미지 합성을 위한 소프트 게이팅 워핑 -GAN
+http://papers.nips.cc/paper/7329-soft-gated-warping-gan-for-pose-guided-person-image-synthesis
+
+GAN은 동일하게 생성됩니까? 대규모 연구
+http://papers.nips.cc/paper/7350-are-gans-created-equal-a-large-scale-study
+
+KDGAN : Generative Adversarial Networks를 이용한 지식 증류
+http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks
+
+FD-GAN : 강력한 사람 재식별을 위한 포즈유도기능 GAN 증분
+http://papers.nips.cc/paper/7398-fd-gan-pose-guided-feature-distilling-gan-for-robust-person-re-identification
+
+PacGAN : 생성적 적대 네트워크에서 두 샘플의 힘
+http://papers.nips.cc/paper/7423-pacgan-the-power-of-two-samples-in-generative-adversarial-networks
+
+부르 간 (Bourgan) : 메트릭 삽입 기능이 포함된 생성 네트워크
+http://papers.nips.cc/paper/7495-bourgan-generative-networks-with-metric-embeddings
+
+MetaGAN : 소수 샷 학습에 대한 적대적인 접근법
+http://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning
+
+BinGAN : 정규화 된 GAN을 사용하여 컴팩트 이진 설명자 학습
+http://papers.nips.cc/paper/7619-bingan-learning-compact-binary-descriptors-with-a-regularized-gan
+
+GAN을 위한 볼록한 이중성 프레임 워크
+http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans
+
+GAN 및 GMM
+http://papers.nips.cc/paper/7826-on-gans-and-gmms
+
+메모리 재생 GAN : 잊지 않고 새로운 카테고리 생성하기 학습
+http://papers.nips.cc/paper/7836-memory-replay-gans-learning-to-generate-new-categories-without-forgetting
+
+MMD GAN의 그라디언트 조절기에서
+http://papers.nips.cc/paper/7904-on-gradient-regularizers-for-mmd-gans
+
+바나치 와서스타인 GAN
+http://papers.nips.cc/paper/7909-banach-wasserstein-gan
+
+정규화된 최적운송을 갖춘 훈련 GAN의 수렴성 및 견고성
+http://papers.nips.cc/paper/7940-on-the-convergence-and-robustness-of-training-gans-with-regularized-optimal-transport
+
+인과 관계 InfoGAN을 사용하여 계획 가능한 표현 학습
+http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan
+
+잡음이 많은 레이블에 대한 조건부 GAN의 견고성
+http://papers.nips.cc/paper/8229-robustness-of-conditional-gans-to-noisy-labels
+
 NLP
 [특강] 딥러닝 자언어처리 + 챗봇 https://event-us.kr/chatbothon/event/4540 
 버트를 이용한 챗봇 구현' 발표자료 
