@@ -1,5 +1,7 @@
 - ToDo Lists
 
+Machine learning cheat sheet 페이지 소개드립니다. https://ml-cheatsheet.readthedocs.io/en/latest/
+
 Standford CS 230 - Deep Learning cheatsheet
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
@@ -90,7 +92,7 @@ transformer 의 encoder(BERT)와 decoder:
 Part I(https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3)
 Appendix(https://medium.com/dissecting-bert/dissecting-bert-appendix-the-decoder-3b86f66b0e5f)
 카카오 브레인 이동현님의 pytorchic-bert(https://github.com/dhlee347/pytorchic-bert)
-
+bioBERT - CT reports 에서 TNM stage를 뽑아낼때 유용하게 쓸 수 있을 것 같습니다. https://github.com/dmis-lab/biobert
 
 PACS / DICOM tools for DL
 https://github.com/joshy/pypacscrawler
