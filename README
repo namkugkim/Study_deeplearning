@@ -1,5 +1,5 @@
 - ToDo Lists
-
+sota 논문들과 코드를 잘 모아놓은 사이트입니다. https://paperswithcode.com/sota
 Machine learning cheat sheet 페이지 소개드립니다. https://ml-cheatsheet.readthedocs.io/en/latest/
 
 Standford CS 230 - Deep Learning cheatsheet
@@ -81,7 +81,10 @@ http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-
 잡음이 많은 레이블에 대한 조건부 GAN의 견고성
 http://papers.nips.cc/paper/8229-robustness-of-conditional-gans-to-noisy-labels
 
+"Towards generative adversarial networks as a new paradigm for radiology education" https://arxiv.org/pdf/1812.01547.pdf
+Deep Learning in Medical AI 2018/2019 using PyTorch & Google Collab https://colab.research.google.com/drive/1hGVoskPSerJtUydCoKeUskQG8X4lt3k9 (edited)
 NLP
+
 [특강] 딥러닝 자언어처리 + 챗봇 https://event-us.kr/chatbothon/event/4540 
 버트를 이용한 챗봇 구현' 발표자료 
 Wav2letter++, the fastest open source speech system, and flashlight https://code.fb.com/ai-research/wav2letter/
